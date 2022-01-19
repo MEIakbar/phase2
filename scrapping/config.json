@@ -1,0 +1,174 @@
+{
+    "kabinet": {
+      "BASE_URL" : "https://id.wikipedia.org/",
+      "url" : "https://id.wikipedia.org/wiki/Kabinet_Indonesia_Maju"
+    },
+    "dpr": {
+      "Base_url" : "https://www.dpr.go.id/",
+      "url" : "https://www.dpr.go.id/anggota"
+    },
+    "dprd_tk1": {
+      "Aceh" : { 
+        "url": "https://dpra.acehprov.go.id/index.php/profil_anggota"
+      },
+      "Sumatra Utara" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Sumatra_Utara"
+      },
+      "Sumatra Barat": {
+        "url": "https://dprd.sumbarprov.go.id/home/berita/1/934"
+      },
+      "Riau" : {
+        "url_1": "http://dprd.riau.go.id/anggota-dprd-provinsi-riau-fraksi-golkar/",
+        "url_2": "http://dprd.riau.go.id/anggota-dprd-provinsi-riaufraksi-pdi-perjuangan/",
+        "url_3": "http://dprd.riau.go.id/anggota-dprd-provinsi-riaufraksi-demokrat/",
+        "url_4": "http://dprd.riau.go.id/anggota-dprd-provinsi-riaufraksi-gerindra/",
+        "url_5": "http://dprd.riau.go.id/anggota-dprd-provinsi-riaufraksi-pan/",
+        "url_6": "http://dprd.riau.go.id/anggota-dprd-provinsi-riaufraksi-pks/",
+        "url_7": "http://dprd.riau.go.id/anggota-dprd-provinsi-riaufraksi-pkb/",
+        "url_8": "http://dprd.riau.go.id/anggota-dprd-provinsi-riaufraksi-gabungan-ppp-nasdem-hanura/"
+      },
+      "Kepulauan Riau" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Kepulauan_Riau"
+      },
+      "Jambi" : {
+        "url": "https://dprd-jambiprov.go.id/dewan"
+      },
+      "Bengkulu" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Bengkulu"
+      },
+      "Sumatra Selatan" : {
+        "url_1": "https://dprd.sumselprov.go.id/golkar/",
+        "url_2": "https://dprd.sumselprov.go.id/fraksi-partai-demokrasi-indonesia-perjuangan/",
+        "url_3": "https://dprd.sumselprov.go.id/fraksi-gerindra/",
+        "url_4": "https://dprd.sumselprov.go.id/fraksi-partai-demokrat/",
+        "url_5": "https://dprd.sumselprov.go.id/fraksi-pkb/",
+        "url_6": "https://dprd.sumselprov.go.id/fraksi-pan/",
+        "url_7": "https://dprd.sumselprov.go.id/fraksi-nasdem/",
+        "url_8": "https://dprd.sumselprov.go.id/fraksi-pks/",
+        "url_9": "https://dprd.sumselprov.go.id/fraksi-hanura/"
+      },
+      "Kepulauan Bangka Belitung" : {
+        "url": "http://dprd-babelprov.go.id/index.php/profil"
+      },
+      "Lampung" : {
+        "url_1": "https://setwan-dprd.lampungprov.go.id/pages/fraksi-pdi-p",
+        "url_2": "https://setwan-dprd.lampungprov.go.id/pages/fraksi-gerindra",
+        "url_3": "https://setwan-dprd.lampungprov.go.id/pages/fraksi-golkar",  
+        "url_4": "https://setwan-dprd.lampungprov.go.id/pages/fraksi-demokrat",
+        "url_5": "https://setwan-dprd.lampungprov.go.id/pages/fraksi-nasdem",
+        "url_6": "https://setwan-dprd.lampungprov.go.id/pages/fraksi-pkb",
+        "url_7": "https://setwan-dprd.lampungprov.go.id/pages/fraksi-pks",
+        "url_8": "https://setwan-dprd.lampungprov.go.id/pages/fraksi-pan"
+      },
+      "Sulawesi Utara" : {
+        "url": "https://dprd.sulutprov.go.id/profil-anggota-dprd/"
+      },
+      "Gorontalo" : {
+        "url_1": "https://dprd.gorontaloprov.go.id/fraksi-pan/",
+        "url_2": "https://dprd.gorontaloprov.go.id/fraksi-pdi-perjuangan/",
+        "url_3": "https://dprd.gorontaloprov.go.id/fraksi-hanura/",
+        "url_4": "https://dprd.gorontaloprov.go.id/fraksi-demokrat/",
+        "url_5": "https://dprd.gorontaloprov.go.id/fraksi-ppp/",
+        "url_6": "https://dprd.gorontaloprov.go.id/fraksi-pks/",
+        "url_7": "https://dprd.gorontaloprov.go.id/fraksi-golkar/",
+        "url_8": "https://dprd.gorontaloprov.go.id/pimpinan-dprd/"
+      },
+      "Sulawesi Tengah" : {
+        "url": "https://dprd.sultengprov.go.id/profil-anggota"
+      }, 
+      "Sulawesi Barat" : {
+        "url_1": "https://dprd.sulbarprov.go.id/fraksi-golkar/",
+        "url_2": "https://dprd.sulbarprov.go.id/fraksi-golkar/",
+        "url_3": "https://dprd.sulbarprov.go.id/fraksi-nasdem/",
+        "url_4": "https://dprd.sulbarprov.go.id/fraksi-pdi-perjuangan/",
+        "url_5": "https://dprd.sulbarprov.go.id/fraksi-gerindra/",
+        "url_6": "https://dprd.sulbarprov.go.id/fraksi-pan/",
+        "url_7": "https://dprd.sulbarprov.go.id/fraksi-kebangkitan-nasional/",
+        "url_8": "https://dprd.sulbarprov.go.id/fraksi-persatuan-indonesia-membangun/"
+      },
+      "Sulawesi Selatan" : {
+        "url": "https://dprd.sulselprov.go.id/web/page/anggota"
+      },
+      "Sulawesi Tenggara" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Sulawesi_Tenggara"
+      },
+      "Papua Barat" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Papua_Barat"
+      },
+      "Papua" : {
+        "url": "https://dpr-papua.go.id/profil-anggota-dprp-masa-jabatan-2019-2024/"
+      },
+      "Bali" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Bali"
+      },
+      "Nusa Tenggara Barat" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Nusa_Tenggara_Barat"
+      },
+      "Nusa Tenggara Timur" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Nusa_Tenggara_Timur"
+      },
+      "Maluku Utara" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Maluku_Utara"
+      },
+      "Maluku" : {
+        "url": "https://id.wikipedia.org/wiki/Daftar_anggota_Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Maluku_2019%E2%80%932024"
+      },
+      "Kalimantan Barat" : {
+        "url": "https://dprd.kalbarprov.go.id/profil/profil_anggota"
+      },
+      "Kalimantan Tengah" : {
+        "url_1": "https://www.dprd-kaltengprov.go.id/fraksi-dewan",
+        "url_2": "https://www.dprd-kaltengprov.go.id/komisi-dewan-A",
+        "url_3": "https://www.dprd-kaltengprov.go.id/komisi-dewan-B",
+        "url_4": "https://www.dprd-kaltengprov.go.id/komisi-dewan-C",
+        "url_5": "https://www.dprd-kaltengprov.go.id/komisi-dewan-D"
+      },
+      "Kalimantan Selatan" : {
+        "url_1": "https://dprdkalselprov.id/pimpinan-dewan/",
+        "url_2": "https://dprdkalselprov.id/komisi-i/",
+        "url_3": "https://dprdkalselprov.id/komisi-ii/",
+        "url_4": "https://dprdkalselprov.id/komisi-iii/",
+        "url_5": "https://dprdkalselprov.id/komisi-iv/"
+      },
+      "Kalimantan Timur" : {
+        "url": "https://dprd.kaltimprov.go.id/semua-anggota-dewan"
+      },
+      "Kalimantan Utara" : {
+        "url": "https://id.wikipedia.org/wiki/Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Kalimantan_Utara"
+      },
+      "Daerah Khusus Ibukota Jakarta" : {
+        "url_1": "https://dprd-dkijakartaprov.go.id/fraksi/fraksi-pdi-perjuangan/",
+        "url_2": "https://dprd-dkijakartaprov.go.id/fraksi/fraksi-partai-gerindra/",
+        "url_3": "https://dprd-dkijakartaprov.go.id/fraksi/fraksi-partai-keadilan-sejahtera/",
+        "url_4": "https://dprd-dkijakartaprov.go.id/fraksi/fraksi-partai-demokrat-partai-amanat-nasional/",
+        "url_5": "https://dprd-dkijakartaprov.go.id/fraksi/anggota-terpilih-partai-amanat-nasional/",
+        "url_6": "https://dprd-dkijakartaprov.go.id/fraksi/partai-solidaritas-indonesia/",
+        "url_7": "https://dprd-dkijakartaprov.go.id/fraksi/fraksi-partai-nasdem/",
+        "url_8": "https://dprd-dkijakartaprov.go.id/fraksi/fraksi-partai-golkar/",
+        "url_9": "https://dprd-dkijakartaprov.go.id/fraksi/fraksi-partai-kebangkitan-bangsa/"
+      },
+      "Banten" : {
+        "url": "https://dprd-bantenprov.go.id/anggota-dprd/"
+      },
+      "Jawa Barat" : {
+        "url": "https://dprd.jabarprov.go.id/profil/anggota"
+      },
+      "Jawa Tengah" : {
+        "url_1": "https://dprd.jatengprov.go.id/fraksi/fraksi-pdip/",
+        "url_2": "https://dprd.jatengprov.go.id/fraksi/fraksi-gerindra/",
+        "url_3": "https://dprd.jatengprov.go.id/fraksi/fraksi-golkar/",
+        "url_4": "https://dprd.jatengprov.go.id/fraksi/fraksi-pan/",
+        "url_5": "https://dprd.jatengprov.go.id/fraksi/fraksi-pdip/",
+        "url_6": "https://dprd.jatengprov.go.id/fraksi/fraksi-pkb/",
+        "url_7": "https://dprd.jatengprov.go.id/fraksi/fraksi-pks/",
+        "url_8": "https://dprd.jatengprov.go.id/fraksi/fraksi-ppp/"
+      },
+      "Daerah Istimewa Yogyakarta" : {
+        "url": "https://www.dprd-diy.go.id/anggota-dprd-diy-periode-2019-2024/"
+      },
+      "Jawa Timur" : {
+        "url": "https://dprd.jatimprov.go.id/fraksi"
+      }
+    }
+  }
+  
